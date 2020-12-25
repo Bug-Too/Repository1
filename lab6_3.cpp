@@ -13,8 +13,6 @@ char before(char x){
 	{
 		return '0';
 	}
-	
-	
 }
 
 int main(){

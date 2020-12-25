@@ -5,6 +5,7 @@ int main() {
     double c = 4, output;
 
     output = a - b/c;
-    std::cout << output << "\n";
+    std::cout <<"output: "<< output << "\n";
     return 0;
+
 }
